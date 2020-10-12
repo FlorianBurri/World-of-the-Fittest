@@ -1,5 +1,4 @@
-Das Mini-Projekt ”World of the Fittest” wurde im Rahmen des Moduls C++ Objektorientiertes Programmieren durchgeführt. Es wurde ein Programm erstellt, welches zum Simulieren der Interaktion zwischen Raubtier und Beute dient. Der Code wurde in C++ implementiert. Das Resultat ist eine gut Strukturierte und Funktionierende Software, welche beliebig erweitert werden kann.
-
+The project "World of the Fittest" was carried out as part of the module C++ Object Oriented Programming. A program was created which serves to simulate the interaction between predator and prey. The code was implemented in C++.
 
 
 UML class diagram:
